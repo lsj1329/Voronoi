@@ -1,4 +1,4 @@
-##< 보로노이 >
+## < 보로노이 >
 ![Voronoi](C:/Users/user/Documents/GitHub/Python_study/Voronoi.jpg)
 
 **파이썬으로 보로노이 알고리즘 배우기**
