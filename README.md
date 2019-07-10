@@ -2,7 +2,7 @@
 ![Voronoi](./Image/Voronoi.JPG)
 
 
- *****파이썬을 이용한 보로노이 다이어그램 (feat. Soccer)
+### 파이썬을 이용한 보로노이 다이어그램 (feat. Soccer)
 
 
 
