@@ -1,5 +1,5 @@
 ## < 보로노이 >
-![Voronoi](Voronoi/Image/Voronoi.JPG)
+![Voronoi](./Image/Voronoi.JPG)
 
 **파이썬으로 보로노이 알고리즘 배우기**
 
